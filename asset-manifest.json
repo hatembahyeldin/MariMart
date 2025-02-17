@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/MariMart/static/js/main.1f19247f.js",
+    "main.js": "/MariMart/static/js/main.cb2dc853.js",
     "static/js/488.2a8a6da5.chunk.js": "/MariMart/static/js/488.2a8a6da5.chunk.js",
     "index.html": "/MariMart/index.html",
-    "main.1f19247f.js.map": "/MariMart/static/js/main.1f19247f.js.map",
+    "main.cb2dc853.js.map": "/MariMart/static/js/main.cb2dc853.js.map",
     "488.2a8a6da5.chunk.js.map": "/MariMart/static/js/488.2a8a6da5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1f19247f.js"
+    "static/js/main.cb2dc853.js"
   ]
 }
